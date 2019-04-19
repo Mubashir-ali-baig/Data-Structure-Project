@@ -1,0 +1,68 @@
+﻿Build started 12/17/2018 9:49:24 AM.
+     1>Project "D:\c++\Airport Simulator\Airport Simulator\Airport Simulator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Airport Simulator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\c++\airport simulator\airport simulator\controltowercrew.h(37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\controltowercrew.h(85): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\controltowercrew.h(119): warning C4102: 'L1' : unreferenced label
+     1>d:\c++\airport simulator\airport simulator\aircraftcrew.h(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\aircraftcrew.h(24): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\c++\airport simulator\airport simulator\aircraftcrew.h(37): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\c++\airport simulator\airport simulator\aircraftcrew.h(50): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\c++\airport simulator\airport simulator\quiz.h(75): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\c++\airport simulator\airport simulator\quiz.h(89): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\c++\airport simulator\airport simulator\quiz.h(77) : definition of 'i' ignored
+                 d:\c++\airport simulator\airport simulator\quiz.h(14) : definition of 'i' used
+     1>d:\c++\airport simulator\airport simulator\quiz.h(89): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\c++\airport simulator\airport simulator\quiz.h(77) : definition of 'i' ignored
+                 d:\c++\airport simulator\airport simulator\quiz.h(14) : definition of 'i' used
+     1>d:\c++\airport simulator\airport simulator\quiz.h(89): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\c++\airport simulator\airport simulator\quiz.h(77) : definition of 'i' ignored
+                 d:\c++\airport simulator\airport simulator\quiz.h(14) : definition of 'i' used
+     1>d:\c++\airport simulator\airport simulator\quiz.h(91): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\c++\airport simulator\airport simulator\quiz.h(77) : definition of 'i' ignored
+                 d:\c++\airport simulator\airport simulator\quiz.h(14) : definition of 'i' used
+     1>d:\c++\airport simulator\airport simulator\quiz.h(95): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\c++\airport simulator\airport simulator\quiz.h(77) : definition of 'i' ignored
+                 d:\c++\airport simulator\airport simulator\quiz.h(14) : definition of 'i' used
+     1>d:\c++\airport simulator\airport simulator\quiz.h(62): warning C4101: 'n' : unreferenced local variable
+     1>d:\c++\airport simulator\airport simulator\quiz.h(76): warning C4101: 'num' : unreferenced local variable
+     1>d:\c++\airport simulator\airport simulator\pessenger.h(35): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\pessenger.h(89): warning C4101: 'money' : unreferenced local variable
+     1>d:\c++\airport simulator\airport simulator\main.cpp(28): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\main.cpp(57): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\main.cpp(69): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\main.cpp(114): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\main.cpp(156): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>d:\c++\airport simulator\airport simulator\useraccount.h(98): warning C4715: 'useraccount::login' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++\Airport Simulator\Debug\Airport Simulator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Airport Simulator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\c++\Airport Simulator\Debug\Airport Simulator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++\Airport Simulator\Debug\Airport Simulator.lib" /MACHINE:X86 "Debug\Airport Simulator.exe.embed.manifest.res"
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Airport Simulator.exe.embed.manifest" /manifest "Debug\Airport Simulator.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Airport Simulator.vcxproj -> D:\c++\Airport Simulator\Debug\Airport Simulator.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Airport Simulator.unsuccessfulbuild".
+         Touching "Debug\Airport Simulator.lastbuildstate".
+     1>Done Building Project "D:\c++\Airport Simulator\Airport Simulator\Airport Simulator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.76

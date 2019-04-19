@@ -1,0 +1,20 @@
+What is your name?
+mubashir
+Where do you live?
+karachi
+What is your father name?
+ghazanfar
+What is your qualification?
+bscs
+What is your field?
+cs
+What is your mother name?
+shagufta
+What is your hobby?
+coding
+Who is the current prime minister?
+imran khan
+Is messi greater than ronaldo?
+yes
+Elon Musk is the founder of?
+tesla
